@@ -1,0 +1,17 @@
+body {
+    background: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+button {
+	float: right;
+	font-size: 30px;
+}
+
+
+#datepicker {
+	width: 75%;
+	font-size: 20px;
+}
+
